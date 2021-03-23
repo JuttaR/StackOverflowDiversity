@@ -15,4 +15,4 @@ Python 3, Numpy, Pandas, Matplotlib, Seaborn (best install Anaconda Package)
 Data available from Stack Overflow under the Open Database License (ODbL): https://insights.stackoverflow.com/survey. Thanks Stack!
 
 ## Further Reading
-Please find high-level insights on my Medium post: https://medium.com/@juttarichter
+Please find high-level insights on my Medium post: https://juttarichter.medium.com/top-facts-about-diversity-inclusion-equ-al-ity-in-todays-tech-community-dd33916f6b11
